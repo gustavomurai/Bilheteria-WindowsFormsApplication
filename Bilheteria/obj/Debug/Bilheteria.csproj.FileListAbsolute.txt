@@ -1,0 +1,10 @@
+C:\ProjetosCS\Bilheteria\Bilheteria\obj\Debug\Bilheteria.csproj.AssemblyReference.cache
+C:\ProjetosCS\Bilheteria\Bilheteria\obj\Debug\Bilheteria.Form1.resources
+C:\ProjetosCS\Bilheteria\Bilheteria\obj\Debug\Bilheteria.Properties.Resources.resources
+C:\ProjetosCS\Bilheteria\Bilheteria\obj\Debug\Bilheteria.csproj.GenerateResource.cache
+C:\ProjetosCS\Bilheteria\Bilheteria\obj\Debug\Bilheteria.csproj.CoreCompileInputs.cache
+C:\ProjetosCS\Bilheteria\Bilheteria\bin\Debug\Bilheteria.exe.config
+C:\ProjetosCS\Bilheteria\Bilheteria\bin\Debug\Bilheteria.exe
+C:\ProjetosCS\Bilheteria\Bilheteria\bin\Debug\Bilheteria.pdb
+C:\ProjetosCS\Bilheteria\Bilheteria\obj\Debug\Bilheteria.exe
+C:\ProjetosCS\Bilheteria\Bilheteria\obj\Debug\Bilheteria.pdb
